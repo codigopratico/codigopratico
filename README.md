@@ -43,7 +43,7 @@ Aqui você encontra os códigos usados nos vídeos do canal, organizados por tri
 ## 📺 Onde acompanhar o conteúdo
 
 * ▶️ YouTube: Código Prático
-* 📸 Instagram: @codigopratico
+* 📸 Instagram: @codigo_pratico
 * 💼 LinkedIn: Código Prático
 
 ---

@@ -1,4 +1,4 @@
-# 👋 Código Prático
+# 💻 Código Prático
 
 🚀 Aprenda programação **na prática** com projetos reais
 🎥 Conteúdo educacional do zero ao avançado em Front-end

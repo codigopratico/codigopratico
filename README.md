@@ -34,7 +34,7 @@ Aqui você encontra os códigos usados nos vídeos do canal, organizados por tri
 ## 🚀 Projetos em Destaque
 
 * 🔗 [Landing Page com Vue.js](https://codigopratico.github.io/drivemax)
-* 🔗 [Página de cadastro com Vue.js](https://github.com/codigopratico/Blog-IFPE)
+* 🔗 [Página de cadastro com Vue.js](https://codigopratico.github.io/Blog-IFPE/)
 * 🔗 Mini Projetos em JavaScript
 * 🔗 Dashboard com Vue.js
 

@@ -1,51 +1,49 @@
-# 💻 Código Prático
+# 💻 Kauan Oliveira
 
-🚀 Aprenda programação **na prática** com projetos reais
-🎥 Conteúdo educacional do zero ao avançado em Front-end
-
----
-
-## 🧠 Sobre o Código Prático
-
-O **Código Prático** é um projeto educacional focado em ensinar programação de forma direta, objetiva e aplicada.
-Aqui você encontra os códigos usados nos vídeos do canal, organizados por trilhas e projetos.
+🚀 **Desenvolvedor em transição de área** | Foco em **Inteligência Artificial** e **Ciência de Dados**  
+🎓 **Técnico em Informática para Internet** pelo **IFPE**  
+🧠 Cursando **Inteligência Artificial** no **CIn-UFPE**  
+🧪 Ex-Pesquisador em Iniciação Científica no IFPE (IA aplicada à Saúde)
 
 ---
 
-## 🛠️ Tecnologias
+## 🧠 Sobre Mim
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* Vue.js
-* Git & GitHub
+Sou técnico em Informática para Internet pelo IFPE e atualmente estou direcionando meu foco para o campo da **Inteligência Artificial**, aprofundando meus estudos através do curso de IA no **CIn-UFPE**. 
+
+Minha base técnica começou no desenvolvimento web e na monitoria de programação, o que me deu uma estrutura sólida em lógica. Hoje, meu objetivo é aplicar modelos de aprendizado de máquina (Machine Learning) e LLMs para resolver problemas complexos e gerar impacto real, especialmente voltado para o setor público.
 
 ---
 
-## 📚 Trilhas de Estudo
+## 🛠️ Tecnologias & Ferramentas
 
-* 📂 **HTML Fundamentos** – do zero absoluto
-* 📂 **CSS Fundamentos** – layout, flexbox e responsividade
-* 📂 **JavaScript Fundamentos** – lógica e DOM
-* 📂 **Vue.js Iniciante** – componentes e estado
-
----
-
-## 🚀 Projetos em Destaque
-
-* 🔗 [Landing Page com Vue.js](https://codigopratico.github.io/drivemax)
-* 🔗 [Página de cadastro com Vue.js](https://codigopratico.github.io/Blog-IFPE/)
-* 🔗 Mini Projetos em JavaScript
-* 🔗 Dashboard com Vue.js
+*   **Linguagens:** `Python`, `JavaScript (ES6+)`, `HTML5`, `CSS3`
+*   **IA & Dados:** `Pandas`, `Scikit-learn`, `Fine-tuning (ResNet-18)`, `Ollama`, `Métricas de Desempenho`
+*   **Web Frameworks:** `Vue.js`
+*   **Ferramentas:** `Git`, `GitHub`, `Metodologias Ágeis (Teórico)`
 
 ---
 
-## 📺 Onde acompanhar o conteúdo
+## 📚 Projetos e Pesquisas em Destaque
 
-* ▶️ YouTube: Código Prático
-* 📸 Instagram: @codigo_pratico
-* 💼 LinkedIn: Código Prático
+### 🧪 IA na Saúde (Iniciação Científica)
+Desenvolvimento de modelos preditivos voltados à oncologia utilizando **Python** e técnicas avançadas de tratamento de dados, como o **SMOTE** para balanceamento de classes.
+
+### 🔍 Classificação Multiclasse com Computer Vision
+Experimentos de **fine-tuning** utilizando a arquitetura **ResNet-18**. O projeto incluiu a definição de baselines, execução de múltiplos experimentos e validação de resultados via **matriz de confusão**.
+
+### 🌐 Desenvolvimento Web
+*   🔗 [Landing Page com Vue.js](https://github.io)
+*   🔗 [Página de cadastro com Vue.js](https://github.io)
 
 ---
 
-⭐ Se este conteúdo te ajuda, considere deixar uma estrela nos repositórios!
+## 🚀 Objetivos Atuais
+
+*   Aprofundar conhecimentos em **Large Language Models (LLMs)** e sua aplicação prática no setor público.
+*   Contribuir em projetos que unam tecnologia e impacto social.
+*   Aprimorar o uso de ferramentas de versionamento e fluxos de colaboração técnica.
+
+---
+
+⭐ Se você se interessa por IA e desenvolvimento, sinta-se à vontade para explorar meus repositórios!

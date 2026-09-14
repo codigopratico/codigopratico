@@ -1,60 +1,40 @@
-# 💻 Kauan Oliveira
+# Kauan Gabriel de Oliveira
 
-🚀 **Desenvolvedor em transição de área** | Foco em **Inteligência Artificial** e **Ciência de Dados**  
-🎓 **Técnico em Informática para Internet** pelo **IFPE**  
-🧠 Cursando **Inteligência Artificial** no **CIn-UFPE**  
-🧪 Ex-Pesquisador em Iniciação Científica no IFPE (IA aplicada à Saúde)
+Desenvolvedor Full Stack com foco em aplicações web e mobile. Desenvolvo interfaces, integrações, regras de negócio e estruturas de dados com atenção à organização, segurança e experiência de uso.
 
----
+Técnico em Informática para Internet pelo IFPE e estudante de Inteligência Artificial no CIn-UFPE.
 
-## 🧠 Sobre Mim
+[LinkedIn](https://www.linkedin.com/in/codigo-pratico/) · [YouTube](https://www.youtube.com/@codigo_praticodev) · [Instagram](https://www.instagram.com/codigo_pratico/)
 
-Sou técnico em Informática para Internet pelo IFPE e atualmente estou direcionando meu foco para o campo da **Inteligência Artificial**, aprofundando meus estudos através do curso de IA no **CIn-UFPE**. 
+## Tecnologias
 
-Minha base técnica começou no desenvolvimento web e na monitoria de programação, o que me deu uma estrutura sólida em lógica. Hoje, meu objetivo é aplicar modelos de aprendizado de máquina (Machine Learning) e LLMs para resolver problemas complexos e gerar impacto real, especialmente voltado para o setor público.
+- **Web e mobile:** React, React Native, Expo Router e TypeScript
+- **Dados e segurança:** Supabase, PostgreSQL, autenticação, RLS, policies e funções RPC
+- **Práticas de desenvolvimento:** Git, GitHub, documentação técnica e organização de entregas
+- **Conhecimentos complementares:** Python, OpenAI API, Pandas e Machine Learning
 
----
+## Projeto em destaque: EXCEPTIOS
 
-## 🛠️ Tecnologias & Ferramentas
+O **EXCEPTIOS** é uma aplicação web e mobile em desenvolvimento para centralizar a relação entre advogados e clientes. A plataforma reúne acompanhamento de processos, atualizações em timeline, pendências, agendamentos e gestão de perfis em um único ambiente.
 
-*   **Linguagens:** `Python`, `JavaScript (ES6+)`, `HTML5`, `CSS3`
-*   **IA & Dados:** `LLMs (OpenAI API)`, `NLP`, `Algoritmos Evolutivos (DEAP)`, `Pandas`, `Scikit-learn`, `Fine-tuning (ResNet-18)`, `Ollama`, `Métricas de Desempenho`
-*   **Web Frameworks:** `Vue.js`
-*   **Ferramentas:** `Git`, `GitHub`, `Metodologias Ágeis (Teórico)`
+Atuo no desenvolvimento full stack do projeto, incluindo:
 
----
+- Telas e fluxos com React Native, React, Expo Router e TypeScript;
+- Modelagem e integração do banco de dados com Supabase e PostgreSQL;
+- Autenticação, perfis de advogado e cliente, sessão persistente e cadastro por convite;
+- Controle de acesso com RLS, policies, permissões e funções RPC;
+- Processos, timeline, pendências, agendamentos e documentação técnica.
 
-## 📚 Projetos e Pesquisas em Destaque
+> O código-fonte do EXCEPTIOS permanece privado para proteger informações do produto. Uma apresentação demonstrativa e dados fictícios serão disponibilizados no portfólio.
 
-### 🎙️ Automação de Áudio e IA Generativa
-Desenvolvimento de uma ferramenta em **Python** para síntese de voz e geração de conteúdo multimodal utilizando as APIs da **OpenAI** (`gpt-4o-audio-preview` e `tts-1`).
-*   **Destaque Técnico:** Implementação de roteirização dinâmica e manipulação de dados binários (Base64) para geração de áudio.
-*   **Foco:** Exploração de interfaces de voz para acessibilidade e inovação na comunicação digital.
-*   🔗 [Repositório do Projeto](https://github.com/codigopratico/audio-openai)
+## Outros projetos
 
-### 🧬 Otimização com Algoritmos Evolutivos
-Uso da biblioteca **DEAP** para resolução de problemas complexos através de computação evolucionária.
-*   **Destaque Técnico:** Implementação de funções de fitness, operadores de cruzamento e mutação para busca em grandes espaços de soluções.
-*   **Diferencial:** Demonstra competência em heurísticas e algoritmos de otimização bio-inspirados.
+- [Expense Tracker](https://github.com/codigopratico/expense-tracker-app) — aplicativo mobile de controle de despesas desenvolvido com Expo, Expo Router e TypeScript.
+- [Automação de áudio com IA](https://github.com/codigopratico/audio-openai) — experimentos com geração de áudio e APIs da OpenAI em Python.
+- [DriveMax](https://codigopratico.github.io/drivemax/) — landing page responsiva criada com Vue.js.
 
-### 🧪 IA na Saúde (Iniciação Científica)
-Desenvolvimento de modelos preditivos voltados à oncologia utilizando **Python** e técnicas avançadas de tratamento de dados, como o **SMOTE** para balanceamento de classes.
+## Atualmente
 
-### 🔍 Classificação Multiclasse com Computer Vision
-Experimentos de **fine-tuning** utilizando a arquitetura **ResNet-18**. O projeto incluiu a definição de baselines, execução de múltiplos experimentos e validação de resultados via **matriz de confusão**.
+Finalizando o EXCEPTIOS e aprofundando meus conhecimentos em desenvolvimento web/mobile, arquitetura de aplicações e segurança de dados.
 
-### 🌐 Desenvolvimento Web
-*   🔗 [Landing Page com Vue.js](https://codigopratico.github.io/drivemax/)
-*   🔗 [Página de cadastro com Vue.js](https://codigopratico.github.io/Blog-IFPE/)
-
----
-
-## 🚀 Objetivos Atuais
-
-*   Aprofundar conhecimentos em **Large Language Models (LLMs)** e sua aplicação prática no setor público.
-*   Contribuir em projetos que unam tecnologia e impacto social.
-*   Aprimorar o uso de ferramentas de versionamento e fluxos de colaboração técnica.
-
----
-
-⭐ Se você se interessa por IA e desenvolvimento, sinta-se à vontade para explorar meus repositórios!
+Estou aberto a projetos com React, React Native, TypeScript, Supabase e PostgreSQL.
